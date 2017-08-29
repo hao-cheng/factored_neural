@@ -1,0 +1,11 @@
+metric	value
+accuracy	0.373126404425
+adjust_f1_macro	0.535733501185
+adjust_f1_weighted	0.490436828458
+level1.fscore	0.717260203036
+level2.fscore	0.614549419039
+level3.fscore	0.547537414082
+level4.fscore	0.512131078668
+level5.fscore	0.495949200788
+level6.fscore	0.423960753938
+level7.fscore	0.438746438746
