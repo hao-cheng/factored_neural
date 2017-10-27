@@ -28,9 +28,12 @@ Each file is tab-separated.
 ## Data ##
 
 To retrieve the comments, you can use one of the following methods:
-* [Reddit Comment Dataset](https://redd.it/3bxlg7) (we use this dataset in the paper)
-* [Google BigQuery](https://bigquery.cloud.google.com/table/fh-bigquery:reddit_comments.2016_05)
+* [PRAW](https://praw.readthedocs.io)
 * [Reddit API](https://www.reddit.com/dev/api)
+
+For more data, you can use the two public available datasets. (We didn't use them in our paper.)
+* [Reddit Comment Dataset](https://redd.it/3bxlg7)
+* [Google BigQuery](https://bigquery.cloud.google.com/table/fh-bigquery:reddit_comments.2016_05)
 
 ## Features ##
 
