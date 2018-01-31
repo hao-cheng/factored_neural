@@ -2,7 +2,7 @@ A Factored Neural Network Model for Characterizing Online Discussions in Vector 
 =================
 
 This repository is for the data and model used by the paper
-[A Factored Neural Network Model for Characterizing Online Discussions in Vector Space](http://www.aclweb.org/anthology/D17-1242).
+[A Factored Neural Network Model for Characterizing Online Discussions in Vector Space](http://www.aclweb.org/anthology/D17-1243).
 ```
 @InProceedings{Cheng2017EMNLP,
  	author    = {Hao Cheng and Hao Fang and Mari Ostendorf},
